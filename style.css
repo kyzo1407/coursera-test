@@ -33,6 +33,7 @@ header a:link, header a:visited {
 header a:hover, header a:active {
     background-color: yellow;
     color:red;
+    font-size: 25px;
 }
 
 header li:nth-child(4) {
