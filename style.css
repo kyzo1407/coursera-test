@@ -1,7 +1,10 @@
 #Yellow {
     width:750px;
     color:rgb(255, 255, 11);
-    background-color: black;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    color: #d3d3c6;
 }
 
 #section2 {
@@ -9,10 +12,6 @@
 }
 
 #section3 {
-    color: red;
-}
-
-#Red {
     color: red;
 }
 
@@ -39,3 +38,4 @@ header a:hover, header a:active {
 header li:nth-child(4) {
     font-size: 20px;
 }
+

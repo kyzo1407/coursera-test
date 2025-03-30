@@ -1,0 +1,33 @@
+body {
+    background-color: #0f1011;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    color: #d3d3c6;
+}
+
+ol {
+    color: #d3d3c6;
+}
+
+li {
+    font-size: 40px;
+    line-height: 50px;
+    margin-left: 50px;
+}
+
+div a:link, div a:visited {
+    text-decoration: none;
+    color:yellow;
+    background-color: red;
+    display: block;
+    width: 720px;
+    text-align: center;
+    border: 3px solid yellow;
+}
+
+div a:hover, div:active {
+    background-color: yellow;
+    color: red;
+    font-size: 45px;
+}
